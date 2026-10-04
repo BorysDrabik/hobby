@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+    color: black;
+}
+
+a{
+    color: crimson;
+}
+
+header{
+    border: 2px solid black;
+}
+main{
+    background-color: aquamarine;
+}
