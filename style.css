@@ -1,0 +1,130 @@
+
+:root{
+
+    font-size: 24px;
+}
+
+body{
+    background-color: rgb(195, 218, 66)!important;
+    color:rgb(26, 45, 219)
+
+}
+
+a{
+    text-decoration-line: none;
+    color:rgb(220, 157, 20)
+    
+}
+header{
+border: 2px solid beige;
+}
+main{
+background-color: rgb(18, 206, 212);
+}
+.ulubieni{
+font-size: 20px;
+border: 2px solid rgba(110, 221, 20, 0.678)
+}
+#mozg{
+    font-size: 40px;
+}
+body{
+    background-color: rgb(221, 205, 111);
+}
+p{
+    font-size: 20px;
+    color:rgb(250, 5, 38);
+}
+.pierwszy{
+    text-align: center;
+}
+.lewy{
+    text-align: left;
+}
+.prawy{
+    text-align: right;
+}
+.czwarty{
+    text-align: justify;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+footer{
+    text-shadow: 1px 2px 5px rgb(189, 179, 182);
+}
+h1{
+    text-shadow: 2px 2px 5px rgb(129, 128, 128);
+}
+
+aside{
+    background-color: blanchedalmond;
+    color: crimson;
+}
+
+ul{
+    list-style-type: disc;
+}
+.kwadrat{
+    list-style-type: square;
+}
+nav ul{
+    list-style-type: none;
+}
+
+.literki{
+    list-style-type: lower-latin;
+}
+.obroz{
+    list-style-image: url('punktor.jpg');
+}
+
+.literki1{
+    list-style-type:armenian;
+}
+.literki2{
+    list-style-type:circle;
+}
+.literki3{
+    list-style-type:decimal;
+}
+.literki4{
+    list-style-type:decimal-leading-zero;
+}
+.literki5{
+    list-style-type:disc;
+}
+.literki6{
+    list-style-type:georgian;
+}
+.literki7{
+    list-style-type:lower-alpha;
+}
+.literki8{
+    list-style-type:lower-greek;
+}
+.literki9{
+    list-style-type:lower-latin;
+}
+.literki10{
+    list-style-type:lower-roman;
+}
+.literki11{
+    list-style-type:none;
+}
+.literki12{
+    list-style-type:square;
+}
+.literki13{
+    list-style-type:symbols();
+}
+.literki14{
+    list-style-type:upper-alpha;
+}
+.literki15{
+    list-style-type:upper-latin;
+}
+.literki16{
+    list-style-type:upper-roman;
+}
+
+
